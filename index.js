@@ -84,9 +84,9 @@ function problem5(string) {
   return vowelCount;
 }
 
-console.log(problem5("Celebration")); // 5;
-console.log(problem5("Palm")); // 1;
-console.log(problem5("Are you actually reading these stings?")); // 13
+// console.log(problem5("Celebration")); // 5;
+// console.log(problem5("Palm")); // 1;
+// console.log(problem5("Are you actually reading these stings?")); // 13
 
 function problem5_2(string) {
   const lettersToRemove = ["a", "b", "c"];
